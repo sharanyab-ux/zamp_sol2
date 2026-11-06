@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793718090561,
+      "tag": "0000_create_tendtovend_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793783858530,
+      "tag": "0001_signup_workspace_setup",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793783910758,
+      "tag": "0002_signup_workspace_fallback_name",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793870000000,
+      "tag": "0003_vendor_workflow",
+      "breakpoints": true
+    }
+  ]
+}
